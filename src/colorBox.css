@@ -27,6 +27,7 @@
     border: none;
     opacity: 0;
     transition: 0.4s;
+    cursor: pointer;
 }
 
 .colorBox:hover .copy-button{
